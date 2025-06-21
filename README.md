@@ -26,7 +26,7 @@ There’s an `apptainer/` folder with a ready-to-use apptainer (formerly singula
 
 ## Dataset
 **Name**: `era5-o48-2020-2021-6h-v1`  
-**Description**: A toy ERA5 low-resolution demo on an octahedral reduced Gaussian O48 grid, 6-hourly data for 2020–2021.  
+**Description**: A toy ERA5 low-resolution demo, 6-hourly data for 2020–2021.  
 **Download**: [era5-o48-2020-2021-6h-v1.zip](https://data.ecmwf.int/anemoi-datasets/era5-o48-2020-2021-6h-v1.zip)
 
 ## Results
