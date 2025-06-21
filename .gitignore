@@ -1,6 +1,7 @@
 # ignore large files
 /datasets/
-/output/outputcheckpoint/
+/outputcheckpoint/
+/outputplots/
 **.sif
 **.zip
 **.pt
