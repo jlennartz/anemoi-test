@@ -10,4 +10,4 @@ export ANEMOI_BASE_SEED=42 before training
 
 converted the toy dataset zip file to .zarr
 
-changed the resolution to o48 from n320, does it make sense?
+changed the resolution to o48 from n320
