@@ -21,6 +21,7 @@ From: nvcr.io/nvidia/pytorch:25.04-py3  # NVIDIA’s GPU-tuned PyTorch NGC image
     pip install anemoi-training anemoi-models anemoi-graphs  # core packages from PyPI :contentReference[oaicite:1]{index=1}
     pip install cdsapi # copernicus data api
     pip install cartopy # plotting tool
+    pip install trimesh # graph creation tool for anemoi-graphs
 
 %runscript
     echo "Running Anemoi toy example…"

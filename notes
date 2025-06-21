@@ -3,3 +3,5 @@ random notes
 install cdsapi for datasets to work -> its a datastore client
 
 generate dataset currently throws "required licences not accepted" -> download dataset for now from https://data.ecmwf.int/anemoi-datasets/era5-o48-2020-2021-6h-v1.zip
+
+anemoi-graphs inspect needs a path and an output, which docu doesn't show

@@ -1,6 +1,7 @@
 # ignore large files
 **.sif
 **.zip
+**.pt
 
 #ignore logging
 **/outputs/
