@@ -1,6 +1,6 @@
 # ignore large files
 **.sif
-datasets/
+**.zip
 
 #ignore logging
 **/outputs/
